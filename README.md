@@ -103,7 +103,6 @@ videos, and text that will be displayed to the event's timeline.
    => Timeline
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="GuestBook_Wireframe.jpg" width=600>
 
 
