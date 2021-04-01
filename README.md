@@ -16,7 +16,6 @@ Users will be able to either create an event or sign up for an event. Within the
 videos, and text that will be displayed to the event's timeline.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Social Media
 - **Mobile:** Mobile allows for convenient use of this app. Users will be able to use the camera to take pictures
 	      of the event they are at as well as easily upload any photos/videos from their phone. They can also use
