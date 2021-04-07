@@ -108,6 +108,8 @@ videos, and text that will be displayed to the event's timeline.
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
+![modelsPost](https://user-images.githubusercontent.com/50221165/113946180-a56d9480-97bc-11eb-85a6-18af251ae0e7.png)
+
 [Add table of models]
 ### Networking
 - [Add list of network requests by screen ]
